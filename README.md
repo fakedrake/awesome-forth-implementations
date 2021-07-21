@@ -14,6 +14,7 @@ Here I will provide github links which are maybe easier to navigate.
 - [if.x86](https://github.com/jeffmd/if.x86): A hybrid stack plus register based programming language.
 - [b1fipl](https://github.com/marcpaq/b1fipl): Some short implementations of forths can be found here
 - XY: a family of array-oriented, concatenative programming languages with first-class continuations. XY 1 has quotations, lists, functions, and patterns. XY 2 is flat. XY 0 has quotations and shuffle-symbols but dispenses with lists and patterns. (I don't know where to find an implementation only a [document](http://www.nsl.com/k/xy/xy.htm))
+- [Kitten](https://github.com/evincarofautumn/kitten): a statically typed, stack-based functional programming language designed for simplicity, speed, and safety. 
 
 # Resources
 
