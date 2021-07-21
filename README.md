@@ -4,6 +4,7 @@ A list of forth implementations I find and think are interesting in some way. Th
 
 Here I will provide github links which are maybe easier to navigate.
 
+- [factor](https://github.com/factor/factor): a concatenative, stack-based programming language with high-level features including dynamic types, extensible syntax, macros, and garbage collection.
 - [gforth (mirror)](https://github.com/forthy42/gforth): Gforth is a fast and portable implementation of the ANS Forth/Forth 200x language (original on [savannah](https://savannah.gnu.org/projects/gforth/))
 - [colorForth](https://github.com/narke/colorForth): A dialect of Forth that uses color to replace punctuation. Includes its own operating system. Produces extremely compact programs. Instant compile from pre-parsed source. [Source forge](https://sourceforge.net/projects/colorforth/)
 - [r34d](https://github.com/phreda4/r3d4): Similar to colorForth but with prefixes instead of colors.
