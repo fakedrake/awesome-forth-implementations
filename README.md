@@ -16,6 +16,7 @@ Here I will provide github links which are maybe easier to navigate.
 - [b1fipl](https://github.com/marcpaq/b1fipl): Some short implementations of forths can be found here
 - XY: a family of array-oriented, concatenative programming languages with first-class continuations. XY 1 has quotations, lists, functions, and patterns. XY 2 is flat. XY 0 has quotations and shuffle-symbols but dispenses with lists and patterns. (I don't know where to find an implementation only a [document](http://www.nsl.com/k/xy/xy.htm))
 - [Kitten](https://github.com/evincarofautumn/kitten): a statically typed, stack-based functional programming language designed for simplicity, speed, and safety. 
+- [Stabel (alpha)](https://stabel-lang.org/): RPN + static type system, compiles to WebAssembly. Not a forth per se, but may offer some ideas or be of some use.
 
 # Resources
 
@@ -25,6 +26,18 @@ While this repo is not intended to be focused on resources I provide some here:
 - [Forth documents](https://github.com/larsbrinkhoff/forth-documents): A repo with forth-related documents.
 - [forth-mode](https://github.com/larsbrinkhoff/forth-mode): emacs mode for forth (haven't tried it)
 - [forthwin user group](https://github.com/ForthWin/Forth2020UsersGroup)
+- [concatenative programming wiki](https://www.concatenative.org): comprehensive index of concatenative language implementations with plenty of links/references
+- [ultratechnology](http://www.ultratechnology.com/forth0.htm): a compilation of stories, historical implementations, essays/perspectives, etc.
+- [Forth compilers page](http://forth.org/compilers.html) A (historical) list of forth implementations.
+- [Brad Rodriguez](https://www.bradrodriguez.com/) Excellent forth resource, most notably the "Moving Forth" article series
+- [Albert van der Horst](https://home.hccnet.nl/a.w.m.van.der.horst/) Another personal site with lots of forth-related information, such as forth lectures.
+
+# Books
+
+- [Starting Forth](https://www.forth.com/starting-forth/)
+- [Thinking Forth](http://thinking-forth.sourceforge.net/)
+- [Programming a problem-oriented language](http://exemark.com/FORTH/ChuckMooreBook.pdf)
+- Threaded Interpretive Languages: Their Design and Implementation by R.G. Loeliger
 
 # Cheatsheet
 
